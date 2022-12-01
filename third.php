@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>LARAVEL</h1>
+    <h1>LARAVEL AND REACT</h1>
 </body>
 </html>
